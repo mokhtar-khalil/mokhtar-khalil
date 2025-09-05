@@ -4,16 +4,16 @@
 
 ### 🚀 About Me
 
-I am a highly motivated and passionate **Graduate Engineering Student** specializing in **Applied Mathematics** at **INSA Toulouse**. My primary interests lie in **Data Science**, **Data Analytics**, and **Artificial Intelligence**, with a keen focus on real-world applications of AI to solve complex problems.
+I am a highly motivated and passionate **Graduate Engineering** specializing in **Applied Mathematics** at **INSA Toulouse**. My primary interests lie in **Data Science**, and **Artificial Intelligence** with a keen focus on real-world applications of AI to solve complex problems specially finance.
 
 ### 💻 What I Do
-
-- **Deep Reinforcement Learning**: Currently working on applying deep RL to optimal control problems in **fluid mechanics** as part of my internship at **CNRS Toulouse**.
+- **ML & AI engineer**: I worked on optimizing the debt issuance by predicting the best date of deliverance and a lot of interesting things in my internship at **Groupe BPCE**
+- **Deep Reinforcement Learning**: I worked on applying deep RL to optimal control problems in **fluid mechanics** as part of my internship at **CNRS Toulouse**.
 - **Data Science & Analytics**: I have hands-on experience with **data modeling**, **data mining**, and building solutions like **chatbots** during my time as a Data Scientist intern at **Data Turing**.
 - **Data Analysis**: During my internship at the **Directorate General of Public Service**, I conducted data exploration and applied statistical methods to profile civil servants.
 
 ### 💼 Professional Experience
-
+- **ML & AI Intern**, Groupe BPCE (February 2025 - August 2025)
 - **Deep Reinforcement Learning Intern**, CNRS Toulouse (June 2024 - September 2024)
 - **Data Scientist Intern**, Data Turing (May 2023 - July 2023)
 - **Data Analyst Intern**, Directorate General of Public Service (July 2022 - August 2022)
@@ -37,7 +37,7 @@ I am a highly motivated and passionate **Graduate Engineering Student** speciali
 
 - **Email**: [mokhtarkhalil655@gmail.com](mailto:mokhtarkhalil655@gmail.com)
 - **LinkedIn**: [mohamed-el-moktar-ahmed](https://www.linkedin.com/in/mohamed-el-moktar-ahmed-009550218/)
-- **GitHub**: [mokhtar-khalil](https://github.com/mokhtar-khalil)
+
 
 ### 🌱 Interests & Hobbies
 
