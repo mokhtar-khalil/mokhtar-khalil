@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 
-I am a highly motivated and passionate **Graduate Engineering** specializing in **Applied Mathematics** at **INSA Toulouse**. My primary interests lie in **Data Science**, and **Artificial Intelligence** with a keen focus on real-world applications of AI to solve complex problems specially finance.
+I am a highly motivated and passionate **Graduate Engineer** specializing in **Applied Mathematics** at **INSA Toulouse**. My primary interests lie in **Data Science**, and **Artificial Intelligence** with a keen focus on real-world applications of AI to solve complex problems specially finance.
 
 ### 💻 What I Do
 - **ML & AI engineer**: I worked on optimizing the debt issuance by predicting the best date of deliverance and a lot of interesting things in my internship at **Groupe BPCE**
